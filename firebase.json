@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "take-plus",
+    "site": "take-plus-38ldu",
     "public": "dist",
     "ignore": [
       "firebase.json",
